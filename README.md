@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8264F7&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi+there!;I'm+Oleksandr+Sekker+;Front+End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8264F7&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi+there!;I'm+Oleksandr+Sekker+;Front+End+Developer)]
 
 ### 🧰 Languages and Tools
 
@@ -31,7 +31,7 @@
 
 ![Oleksandr Sekker's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandrsekker&show_icons=true&theme=react)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aleksandrsekker&theme=react&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aleksandrsekker&theme=react&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)]
 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
